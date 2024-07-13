@@ -1,4 +1,3 @@
-os
 aiohttp
 yarl
 pillow
